@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\StrategyPattern\\StrategyPattern.csproj": {}
+    "d:\\Repos\\StrategyPattern\\StrategyPattern.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\StrategyPattern\\StrategyPattern.csproj": {
+    "d:\\Repos\\StrategyPattern\\StrategyPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\StrategyPattern\\StrategyPattern.csproj",
+        "projectUniqueName": "d:\\Repos\\StrategyPattern\\StrategyPattern.csproj",
         "projectName": "StrategyPattern",
-        "projectPath": "D:\\Repos\\StrategyPattern\\StrategyPattern.csproj",
+        "projectPath": "d:\\Repos\\StrategyPattern\\StrategyPattern.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\StrategyPattern\\obj\\",
+        "outputPath": "d:\\Repos\\StrategyPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
