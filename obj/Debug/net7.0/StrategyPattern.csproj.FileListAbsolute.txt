@@ -1,0 +1,15 @@
+D:\Repos\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.AssemblyReference.cache
+D:\Repos\StrategyPattern\obj\Debug\net7.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfoInputs.cache
+D:\Repos\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfo.cs
+D:\Repos\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Repos\StrategyPattern\bin\Debug\net7.0\StrategyPattern.exe
+D:\Repos\StrategyPattern\bin\Debug\net7.0\StrategyPattern.deps.json
+D:\Repos\StrategyPattern\bin\Debug\net7.0\StrategyPattern.runtimeconfig.json
+D:\Repos\StrategyPattern\bin\Debug\net7.0\StrategyPattern.dll
+D:\Repos\StrategyPattern\bin\Debug\net7.0\StrategyPattern.pdb
+D:\Repos\StrategyPattern\obj\Debug\net7.0\StrategyPattern.dll
+D:\Repos\StrategyPattern\obj\Debug\net7.0\refint\StrategyPattern.dll
+D:\Repos\StrategyPattern\obj\Debug\net7.0\StrategyPattern.pdb
+D:\Repos\StrategyPattern\obj\Debug\net7.0\StrategyPattern.genruntimeconfig.cache
+D:\Repos\StrategyPattern\obj\Debug\net7.0\ref\StrategyPattern.dll
